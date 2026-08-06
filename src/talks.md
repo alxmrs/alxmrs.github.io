@@ -1,6 +1,32 @@
 # Talks
 
-_updated: 2025-09-23_
+_updated: 2026-08-06_
+
+## Inaugural DataFusion Showcase, Jul 2026
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5o-4hL8vGPw?si=NyS5cWHWt9KmgVJB&amp;start=1493" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this talk, I explain how practical [Xarray-SQL](https://github.com/xqlsystems/xarray-sql) can be at performing essential geospatial queries. I then explain some initial realizations for how to make differential databases concrete via a demo of training a 3 layer neural network in SQL.
+
+##  Geo-AI Working Group, Feb 2026
+
+**Everything old is new again: Bringing the relational model to climate data**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtB_6c-GcJE?si=bXRAZNzjMR3PZiVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This is the presentation where I debuted [Xarray-SQL](https://github.com/xqlsystems/xarray-sql). I also talk a bit about the history of the idea and made some bets for the future.
+
+## Geospatial FM, Jan 2026
+
+**Thoughts on Weather Foundation Models**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCkJfXHGra4?si=sp0pBcZcGqdJKyQb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8v35U05PoDw?si=HdoyO5g1QSpOr4Kd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jUe3rvTmv7Q?si=sBNie3Fr8K0TwjHy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I cover a lot of ground in this three part series on weather foundation models. I start by explaining how numerical weather models work, then discuss modern ML weather forecasting approaches. I then finish with a rather "out-there" hypothesis that weather foundation models – maybe, all foundation models – are primarily a database technology.
 
 ## Cloud Native Geo 2025
 
