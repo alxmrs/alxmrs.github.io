@@ -3,6 +3,8 @@ title: Blog
 description-meta: A blog is a blog is a blog.
 ---
 ## 2026
+- [Scaling Samudra: Our journey towards better ocean emulators](https://openathena.ai/blog/scaling-samudra/)
+- [Show HN: I implemented a neural network in SQL](https://news.ycombinator.com/item?id=48897975)
 - [Saying "no"](no.md)
  
 ## 2025
