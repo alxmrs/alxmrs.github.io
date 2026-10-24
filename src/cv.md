@@ -278,22 +278,22 @@ _°Equal contribution_
  </tr>
  <tr>
     <td>Language</td>
-    <td>Python, Typescript, JS, Kotlin, Java</td>
-    <td>C++, C, SQL, Wasm</td>
+    <td>Python, SQL, JS, Kotlin, Java</td>
+    <td>Rust, C++, C, Wasm</td>
  </tr>
  <tr>
     <td>Data</td>
-    <td>Tensorflow, Xarray, Zarr, NumPy, Dask, Beam, GEE</td>
-    <td>JAX, PyTorch, Spark, Parquet, BQ, Postgres</td>
+    <td>PyTorch, JAX, Xarray, Zarr, NumPy, Apache Arrow, Apache Beam</td>
+    <td>Apache DataFusion, DuckDB, Spark</td>
  </tr>
  <tr>
     <td>Product</td>
-    <td>GCP, HTML, CSS, Android, REST, Serverless, Docker</td>
-    <td>AWS, FastAPI, Express, Spring, VueJS</td>
+    <td>Cloud Optimization, GCP, HTML, CSS, Android</td>
+    <td>AWS, FastAPI, Web Components</td>
  </tr>
  <tr>
     <td>Soft</td>
-    <td>Leadership, Collaboration, Public Speaking, Empathy</td>
+    <td>Collaboration, Leadership, Public Speaking, Empathy</td>
     <td>Agile Rituals, Accessibility, Mentorship</td>
  </tr>
 
